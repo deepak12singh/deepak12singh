@@ -19,8 +19,7 @@ I'm a versatile individual with a passion for **technology**, **creativity**, an
 
 ## 📈 GitHub Stats  
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak12singh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak12singh&layout=compact&theme=radical)  
+
 
 ---
 
@@ -60,8 +59,6 @@ I'm a versatile individual with a passion for **technology**, **creativity**, an
 ---
 
 ## 🌐 Let's Connect  
-
-- 💼 **LinkedIn**: [Deepak Singh](https://www.linkedin.com/in/deepak-singh-9ab733337/)  
 - 📧 **Email**: [deepak12singh93@gmail.com](mailto:deepak12singh93@gmail.com)  
 - 🌟 **Portfolio**: *(Coming Soon!)*  
 
